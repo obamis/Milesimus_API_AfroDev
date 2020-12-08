@@ -1,10 +1,10 @@
-package com.restapi.milesimus;
+package com.rest.Mileapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MilesimusApplicationTests {
+class MilesimusEUmApplicationTests {
 
 	@Test
 	void contextLoads() {
